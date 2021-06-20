@@ -53,7 +53,7 @@ class MyTk(tk.Tk):
         super().__init__()
         self.minsize(1336,720)
         self.maxsize(1336,720)
-        self.title("Assistant")
+        self.title("Ugo's Word Similarity Checker")
         self.resizable(False, False)
         self.configure(bg=bg)
 
