@@ -1,2 +1,2 @@
 # word-similarity-checker
-A simple python app that checks the similarity between two words
+A simple python app that checks the similarity between two words, statements or phrases
